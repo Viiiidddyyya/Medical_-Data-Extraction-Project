@@ -15,13 +15,9 @@
 * regex - This library is used in this project for extracting useful and required text from text data .
 * Pytest - This library is used in this project to perform effective testing . 
 
-## 3. Project workflow : 
-- Documents : Sample data used in this project - [https://github.com/prathyyyyy/Medical-Data-Extraction/tree/main/document_extractor/Documents].
-- Source code : Major files - [https://github.com/prathyyyyy/Medical-Data-Extraction/tree/main/document_extractor/src].
-- Test files - [https://github.com/prathyyyyy/Medical-Data-Extraction/tree/main/document_extractor/tests].
-- Minor files : These are minor files and notebook for learning about dataset - [https://github.com/prathyyyyy/Medical-Data-Extraction/tree/main/document_extractor/Notebook].
 
-## 4. Project tasks : 
+
+## 3. Project tasks : 
 1. Collect and dataset.
 2. Analyse the data and get useful insights from data .
 3. Use pdf2image to convert pdf to image.
@@ -30,6 +26,6 @@
 6. By Regular expression (RE) extract useful information from the extracted text data.
 7. By pytest test the project and quality of code .
 
-## 5. Future Goals Regarding This Project : 
+## 4. Future Goals Regarding This Project : 
 1. As this model works well and by using advanced Computer Vision Concept like region of intrest(ROI) we can extract data with high accuracy 
 2. Using further regex we can extract more useful fields in document to get more insight and save further time.
